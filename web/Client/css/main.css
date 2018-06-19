@@ -1,0 +1,196 @@
+*{
+	margin: 0px;
+	
+}
+.name{
+	margin-left: 600px;
+	font-size: 20px;
+	color: red;
+}
+
+.md_num{
+	color:#ff0000;
+	  font-weight: normal
+}
+.index_content{
+	width: 970px;
+	height: 620px;
+	
+}
+
+.a_img{
+	display:block;height:20px
+}
+
+.cart_item{
+	background:blanchedalmond;
+}
+
+
+.main{
+	width: 970px;
+	height: 700px;
+	margin: auto;
+}
+.menu{
+	border: 1px blanchedalmond solid;
+	width: 648px;
+	height: 598px;
+	float: left;
+}
+.menu_list
+{
+	width: 310px;
+	height: 200px;
+	float: left;
+}
+
+
+.menu_img{
+	width:162px;
+	height:142px;
+}
+
+
+.menu_first{
+	width: 650px;
+	height: 200px;
+}
+.menu_first_1
+{
+	width: 310px;
+	height: 200px;
+	float: left;
+}
+
+.menu_first_2
+{
+	width: 310px;
+	height: 200px;
+	float: left;
+}
+
+.menu_second{
+	width: 650px;
+	height: 200px;
+}
+
+.menu_second_1
+{
+	width: 310px;
+	height: 200px;
+	float: left;
+}
+
+.menu_second_2
+{
+	width: 310px;
+	height: 200px;
+	float: left;
+}
+
+.menu_third{
+	width: 650px;
+	height: 200px;
+}
+
+.menu_third_1
+{
+	width: 310px;
+	height: 200px;
+	float: left;
+}
+
+.menu_third_2
+{
+	width: 310px;
+	height: 200px;
+	float: left;
+}
+
+.news{
+	
+	width: 320px;
+	height: 598px;
+	float: left;
+}
+
+.news_first{
+	width:318px ;
+	height: 185px;
+	border: 1px blanchedalmond solid;
+}
+
+.news_first_1{
+	background-color: beige;
+}
+
+.news_first_1 a{
+	color: black;	
+	text-decoration: none;
+}
+
+.news_first_1 a:hover{
+	
+	color: red;
+}
+
+.news_first_2{
+	background-color: blanchedalmond;
+	
+}
+.news_first_2 a{
+	color: black;
+	text-decoration: none;
+}
+.news_first_2 a:hover{
+	
+	color: red;
+}
+.news_second{
+	width:318px ;
+	
+	border: 1px blanchedalmond solid;
+	margin-bottom: 10px;
+	
+}
+
+.news_second_1{
+	width: 320px;
+	height: 40px;
+	background-color: beige;
+	
+}
+
+.news_second_2{
+	width: 320px;
+	
+}
+
+.news_third{
+	width:318px ;
+	height: 155px;
+	border: 1px blanchedalmond solid;
+}
+
+.news_third_1{
+	background-color: beige;
+}
+
+.news_third_2{
+	background-color: blanchedalmond;
+}
+
+.news_third_2 a{
+	
+	color: black;
+	text-decoration: none;
+}
+.news_third_2 a:hover
+{
+	color:red ;
+}
+.menu{
+	overflow: scroll;
+	
+}

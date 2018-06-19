@@ -1,0 +1,28 @@
+.main{
+	/* 文字对齐*/
+	text-align: center;
+	/*div位置*/
+	margin: auto;
+	/*默认字体*/
+	font-family: "新宋体";
+	font-size: 14px;
+	/*边框*/
+	border: solid gainsboro 1px;
+	/*div大小*/
+	width: 970px;
+	height: 700px;
+}
+.main a{
+	/*文字颜色*/
+	color: black;
+	/*去下划线*/
+	text-decoration: none;
+}
+
+/*鼠标移上*/
+a:hover{
+	/*背景颜色*/
+	background-color: blue;
+	/*字体颜色*/
+	color: white;
+}

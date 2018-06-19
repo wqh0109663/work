@@ -1,0 +1,62 @@
+*{
+	margin: 0px;
+}
+
+p{
+	font-size: 14px;
+
+	
+}
+.name{
+	margin-left: 600px;
+	font-size: 20px;
+	color: red;
+}
+.first{
+	width: 970px;
+	height: 700px;
+	background-color: white;
+	margin: auto;
+	
+}
+.second
+{
+	width: 700px;
+	height: 400px;
+	background-color:bisque;
+	margin: auto;
+	padding-left: 50px;
+	padding-top: 100px;
+}
+.login{
+	width: 300px;
+	height: 200px;
+	background-color: whitesmoke;
+	float: left;
+	border:solid salmon 1px;
+	margin-right: 10px;
+}
+
+.regist{
+	width: 340px;
+	height: 200px;
+	background-color: whitesmoke;
+	float: left;
+	border:solid salmon 1px;
+	margin-right: 10px;	
+}
+.regist a{
+	text-decoration: none;
+	color:#FA8072;
+	
+}
+.corlor{
+	background-color: #FFE4C4;
+	
+}
+.corlor1{
+	background-color:whitesmoke;
+	color: red;
+}
+
+

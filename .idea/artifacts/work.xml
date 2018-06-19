@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="work">
+    <output-path>$PROJECT_DIR$/out/artifacts/work</output-path>
+    <root id="archive" name="work.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="work" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-5.1.30" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="work/web/Web" />
+    </root>
+  </artifact>
+</component>
